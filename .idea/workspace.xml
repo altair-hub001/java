@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca23ae76-401e-49f9-95a9-86949726e0ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/ATU/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/Newclock/fqrs1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/Newclock/fqrs2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1/Newclock/fqrs3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/," beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/лаб 1" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/task1/fclass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/task1/fclass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/task1/fclass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/task2/fclass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/task2/fclass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/task3/kafedra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/task3/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/task3/uniber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/task4/lab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/task4/lec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -38,23 +41,50 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="39jwDHQMuXXpR4mbxzgGjdyOt4O" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.updates",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dedpu\IdeaProjects\java\lab2" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +94,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771222666882</updated>
+      <workItem from="1771350593735" duration="3756000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
