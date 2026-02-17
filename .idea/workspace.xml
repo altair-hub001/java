@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca23ae76-401e-49f9-95a9-86949726e0ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab2/task1/fclass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/task1/fclass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/task1/fclass3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/task2/fclass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/task2/fclass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/task3/kafedra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/task3/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/task3/uniber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/task4/lab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/task4/lec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +23,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -47,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -95,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771222666882</updated>
       <workItem from="1771350593735" duration="3756000" />
+      <workItem from="1771355069262" duration="678000" />
     </task>
     <servers />
   </component>
