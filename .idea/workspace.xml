@@ -5,6 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca23ae76-401e-49f9-95a9-86949726e0ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab3/Syzyqtyq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/Model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/Service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/breaks/break1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/breaks/break2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/continues/continue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/continues/continue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/dowhile/do1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/dowhile/do2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/ekimassive/mass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/ekimassive/mass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/ifelse/shartty1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/ifelse/shartty2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/kesindi/fx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/kesindi/fx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/massiv/massiv1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/massiv/massiv2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/returns/retun2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/returns/return1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/siklfor/for1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/siklfor/for2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/siklwhile/while1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/siklwhile/while2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/switchcase/switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/switchcase/switch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +75,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="39jwDHQMuXXpR4mbxzgGjdyOt4O" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,6 +98,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.updates",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -89,7 +134,8 @@
       <option name="presentableId" value="Default" />
       <updated>1771222666882</updated>
       <workItem from="1771350593735" duration="3756000" />
-      <workItem from="1771355069262" duration="678000" />
+      <workItem from="1771355069262" duration="1102000" />
+      <workItem from="1772388358867" duration="1679000" />
     </task>
     <servers />
   </component>
