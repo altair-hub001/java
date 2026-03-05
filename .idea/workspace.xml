@@ -5,47 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca23ae76-401e-49f9-95a9-86949726e0ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab3/Syzyqtyq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/Model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/Service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/breaks/break1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/breaks/break2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/continues/continue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/continues/continue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/dowhile/do1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/dowhile/do2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/ekimassive/mass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/ekimassive/mass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/ifelse/shartty1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/ifelse/shartty2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/kesindi/fx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/kesindi/fx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/massiv/massiv1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/massiv/massiv2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/returns/retun2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/returns/return1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/siklfor/for1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/siklfor/for2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/siklwhile/while1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/siklwhile/while2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/switchcase/switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/switchcase/switch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/ifthenelse9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,33 +41,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.updates",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dedpu\IdeaProjects\java\lab2" />
@@ -116,6 +75,19 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -135,7 +107,9 @@
       <updated>1771222666882</updated>
       <workItem from="1771350593735" duration="3756000" />
       <workItem from="1771355069262" duration="1102000" />
-      <workItem from="1772388358867" duration="1679000" />
+      <workItem from="1772388358867" duration="2389000" />
+      <workItem from="1772719831822" duration="1136000" />
+      <workItem from="1772727584721" duration="1442000" />
     </task>
     <servers />
   </component>
